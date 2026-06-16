@@ -1,0 +1,5 @@
+{
+  "name": "Auto-Meet Scheduler",
+  "description": "A smart meeting scheduler with Google Calendar integration, AI-generated summaries, and automated invitations.",
+  "requestFramePermissions": []
+}
